@@ -17,16 +17,24 @@ padding: 20px;
     margin: 0 auto;
     display: flex;
     align-items: center;
-    justify-content: space-between; /* logo à esquerda, ícones à direita */
+    justify-content: space-between;
     padding: 10px 20px;
 }
 
-/* Logo principal */
-.cabecalho-imagem {
-    width: 80px;   /* diminui o tamanho da logo */
+.cabecalho_imagem {
+    width: 50px; /* tamanho da logo */
     height: auto;
 }
 
+.sociais {
+    display: flex;
+    gap: 10px;
+}
+
+.sociais-icon {
+    width: 25px;
+    height: auto;
+}
 /* Título do site */
 .titulo-site {
     flex: 1;              /* ocupa espaço entre logo e ícones */
