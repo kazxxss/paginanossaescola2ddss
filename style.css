@@ -7,52 +7,23 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: #030a35;
-color: rgb(3, 82, 35);
+background-color: #042254;
+color: white;
 width: 100%;
 padding: 20px;
-/* Container do cabeçalho */
-.cabecalho-itens {
-    max-width: 1980px;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 20px;
 }
-
-.cabecalho_imagem {
-    width: 50px; /* tamanho da logo */
-    height: auto;
+.cabecalho-itens{
+max-width: 1980px;
+margin: 0 auto;
+display: flex;
+align-items: center;
+justify-content: center;
 }
-
-.sociais {
-    display: flex;
-    gap: 10px;
-}
-
-.sociais-icon {
-    width: 25px;
-    height: auto;
-}
-/* Título do site */
-.titulo-site {
-    flex: 1;              /* ocupa espaço entre logo e ícones */
-    text-align: center;    /* centraliza o título */
-    font-size: 2rem;
-}
-
-/* Container de ícones sociais */
-.sociais {
-    display: flex;
-    gap: 15px;  /* espaçamento entre ícones */
-}
-
-/* Ícones individuais */
-.sociais-icon {
-    width: 30px;
-    height: auto;
-    cursor: pointer;
+.cabecalho-imagem{
+width: 10%;
+display: flex;
+justify-content: flex-start;
+align-items: center;
 }
 .titulo_site{
 padding: 50px;
