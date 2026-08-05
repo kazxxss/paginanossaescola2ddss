@@ -98,6 +98,20 @@ header{
     margin-top:10px;
 }
 
+
+/* vídeo */
+
+.div_video{
+background:linear-gradient(#f11515,#005317);
+
+}
+
+.youtube{
+display:flex;
+justify-content:center;
+
+}
+
 /* RODAPÉ */
 
 .escola{
