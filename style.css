@@ -102,7 +102,7 @@ header{
 /* vídeo */
 
 .div_video{
-background:linear-gradient(#090000,#560365);
+background:linear-gradient(#08a7eb,#1356dd);
 }
 
 .youtube{
@@ -113,7 +113,7 @@ justify-content:center;
 /* RODAPÉ */
 
 .escola{
-    background:linear-gradient(#0bbeff,#053070);
+    background:linear-gradient(#000000,#530000);
     color:white;
     text-align:center;
     padding:30px;
