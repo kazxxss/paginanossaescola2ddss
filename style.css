@@ -102,14 +102,12 @@ header{
 /* vídeo */
 
 .div_video{
-background:linear-gradient(#0ba7ca,#051d3a);
-
+background:linear-gradient(#010200,#31013a);
 }
 
 .youtube{
 display:flex;
 justify-content:center;
-
 }
 
 /* RODAPÉ */
