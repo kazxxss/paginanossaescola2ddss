@@ -11,7 +11,7 @@ body{
 /* CABEÇALHO */
 
 header{
-    background-color:#042254;
+    background-color:#540404;
     color:white;
     padding:15px 30px;
 }
@@ -112,7 +112,7 @@ justify-content:center;
 /* RODAPÉ */
 
 .escola{
-    background:linear-gradient(#000000,#330101);
+    background:linear-gradient(#0c0044);
     color:white;
     text-align:center;
     padding:30px;
